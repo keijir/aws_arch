@@ -1,0 +1,1 @@
+import{Nt as e,dt as t,g as n,r,xt as i,y as a}from"./index-Ca4QQ-ht.js";function o(){let o=e([]),s=()=>{o.value=n.project.alternatives.map(e=>{try{return{alt:e,analysis:a(n.project,e),error:``}}catch(t){return{alt:e,analysis:null,error:t.message}}})};return t(s),i(r,s),o}export{o as t};
